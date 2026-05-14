@@ -39,5 +39,5 @@ The analysis is structured sequentially within the Jupyter Notebook (`Vaishali_F
 Transitioning into Business Development and Operations with a strong foundation in data-driven decision-making. This project bridges my hands-on experience in agricultural management with technical analytics to solve complex operational challenges.
 
 **Let's Connect:**
-* [LinkedIn](www.linkedin.com/in/kundal-kashyap-618166202)
-* [Email](kashyap.k1401@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/kundal-kashyap-618166202)
+* [Email](mailto:kashyap.k1401@gmail.com)
