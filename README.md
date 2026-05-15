@@ -1,4 +1,4 @@
-# Vaishali Farmland Analytics: Yield & Profitability Optimisation 🌾📊
+# Vaishali Wheat Yield Analysis 2025-26 : Yield & Profitability Optimisation 🌾📊
 
 A data-driven financial audit of a 6.25-acre wheat enterprise in Vaishali, Bihar (Rabi Season 2025–26). This project identifies ₹55,125 in revenue leakage from suboptimal market access and models a **272% profit improvement scenario** through operational and pricing changes.
 
