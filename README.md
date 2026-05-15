@@ -14,9 +14,9 @@ The core objective is to demonstrate how data analytics can optimise **supply ch
 
 ## 🎯 Key Business Problems Addressed
 
-1. **Cost Driver Identification** — Where is capital being deployed most inefficiently?
-2. **Yield Gap Analysis** — What is the financial impact of falling short of target production?
-3. **Scenario Planning (What-If Analysis)** — How do changes in operational methods and market access affect the final ROI?
+1. **Cost Driver Identification** - Where is capital being deployed most inefficiently?
+2. **Yield Gap Analysis** - What is the financial impact of falling short of target production?
+3. **Scenario Planning (What-If Analysis)** - How do changes in operational methods and market access affect the final ROI?
 
 ---
 
@@ -63,20 +63,20 @@ Vaishali-Wheat-Yield-Analysis-2025-26/
 
 The notebook is structured sequentially:
 
-1. **Data Initialisation** — Structuring raw operational costs (Seeds, Fertiliser, Labour, Diesel) and yield metrics into Pandas DataFrames.
-2. **Exploratory Data Analysis (EDA)** — Visualising cost distributions and investment vs. return gaps.
-3. **Prescriptive Modelling** — A custom Python function (`predict_my_profit`) that simulates ROI across varying agricultural methods and market pricing scenarios.
-4. **Operational Timeline** — A time-series log mapping critical irrigation stages (CRI, Tillering, Milk Stage) to identify potential climatic impacts on yield.
+1. **Data Initialisation** - Structuring raw operational costs (Seeds, Fertiliser, Labour, Diesel) and yield metrics into Pandas DataFrames.
+2. **Exploratory Data Analysis (EDA)** - Visualising cost distributions and investment vs. return gaps.
+3. **Prescriptive Modelling** - A custom Python function (`predict_my_profit`) that simulates ROI across varying agricultural methods and market pricing scenarios.
+4. **Operational Timeline** - A time-series log mapping critical irrigation stages (CRI, Tillering, Milk Stage) to identify potential climatic impacts on yield.
 
 ---
 
 ## 🚀 How to Run
 
-**Option 1 — Google Colab (Recommended, no setup needed)**
+**Option 1 - Google Colab (Recommended, no setup needed)**
 
 Click the badge below or upload the `.ipynb` file directly to [Google Colab](https://colab.research.google.com/).
 
-**Option 2 — Local Setup**
+**Option 2 - Local Setup**
 
 ```bash
 # 1. Clone the repository
